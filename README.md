@@ -220,4 +220,4 @@ para regra fixa, cálculo e qualquer coisa que precise ser reproduzível.
 
 **Israel Passos** — AI Engineer · Smart LABS
 [github.com/IsraelDev7](https://github.com/IsraelDev7) ·
-[portifolio-smartlabs.vercel.app](https://portifolio-smartlabs.vercel.app)
+[smartlabs-ip.vercel.app](https://smartlabs-ip.vercel.app)
